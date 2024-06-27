@@ -1,0 +1,1 @@
+# Adal_noteTaker
